@@ -8,7 +8,7 @@ XYZ company wants to quickly check if someone qualifies for a loan. They'll use 
   + Build a Model to Predict Loan Approval
 
 ## Machine Learning Model Used
-  + Logistic Regression
+  + Support Vector Machine (SVM)
 
 ## Dataset Description
  + There are 13 Variables in the Dataset
